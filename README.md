@@ -16,6 +16,6 @@ Si vous êtes développeur, votre aide est la bienvenue ! Vous pouvez proposer d
 
 Par ailleurs, je vous invite à vous abonner à mes comptes sur les réseaux sociaux pour rester informé des dernières mises à jour, des nouvelles fonctionnalités et des projets à venir. Votre soutien sur les réseaux sociaux est un moyen précieux de me motiver à poursuivre mes efforts en tant que créateur.
 
-Enfin, si vous appréciez mon travail et souhaitez apporter un soutien financier, vous pouvez faire un don. Chaque contribution, quelle que soit sa taille, est grandement appréciée et permet de continuer à développer des projets de qualité.
+Enfin, si vous appréciez mon travail et souhaitez apporter un soutien financier, vous pouvez faire un [don](https://paypal.com/kiplay03). Chaque contribution, quelle que soit sa taille, est grandement appréciée et permet de continuer à développer des projets de qualité.
 
 Je tiens à exprimer ma gratitude envers tous ceux qui soutiennent mon travail. Chaque contribution, petite ou grande, contribue à faire avancer les projets et à fournir des solutions toujours meilleures. Votre engagement et votre soutien sont essentiels pour m'aider à progresser en tant que créateur et à offrir des réalisations qui enrichissent la communauté.

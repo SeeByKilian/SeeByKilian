@@ -19,5 +19,3 @@ Par ailleurs, je vous invite à vous abonner à mes comptes sur les réseaux soc
 Enfin, si vous appréciez mon travail et souhaitez apporter un soutien financier, vous pouvez faire un don. Chaque contribution, quelle que soit sa taille, est grandement appréciée et permet de continuer à développer des projets de qualité.
 
 Je tiens à exprimer ma gratitude envers tous ceux qui soutiennent mon travail. Chaque contribution, petite ou grande, contribue à faire avancer les projets et à fournir des solutions toujours meilleures. Votre engagement et votre soutien sont essentiels pour m'aider à progresser en tant que créateur et à offrir des réalisations qui enrichissent la communauté.
-
-Projet créé et développé par Kiplay03

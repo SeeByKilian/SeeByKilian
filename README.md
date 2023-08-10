@@ -1,9 +1,10 @@
 ## Présentation
 
-[![Competence](https://img.shields.io/badge/HTML%205-Excellente%20maitrise-Competence?logo=html5)](https://postman.com/)
-[![Competence](https://img.shields.io/badge/PHP-Excellente%20maitrise-Competence?logo=php)](https://postman.com/)
-[![Competence](https://img.shields.io/badge/Docker-Excellente%20maitrise-Competence?logo=docker)](https://docker.com/)
-[![Competence](https://img.shields.io/badge/Postman-Excellente%20maitrise-Competence?logo=postman)](https://postman.com/)
+[![Competence](https://img.shields.io/badge/HTML-Excellente%20maitrise-Competence?logo=html5&color=blue)](https://postman.com/)
+[![Competence](https://img.shields.io/badge/CSS-Bonne%20maitrise-Competence?logo=css3)](https://postman.com/)
+[![Competence](https://img.shields.io/badge/PHP-Excellente%20maitrise-Competence?logo=php&color=blue)](https://postman.com/)
+[![Competence](https://img.shields.io/badge/Docker-Excellente%20maitrise-Competence?logo=docker&color=blue)](https://docker.com/)
+[![Competence](https://img.shields.io/badge/Postman-Excellente%20maitrise-Competence?logo=postman&color=blue)](https://postman.com/)
 
 🙋‍♂️ Hello moi c'est Kilian. Depuis mon plus jeune âge, je suis passionné par le développement informatique et j'aspire à en faire mon métier. Actuellement, je travaille en collaboration avec Silver, un petit vidéaste talentueux. Sur ce profil GitHub, tu pourras explorer mes différents projets que j'ai mis à disposition des développeurs.
 

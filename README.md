@@ -6,11 +6,18 @@ Depuis 2019, je me suis spécialisé en tant que développeur principalement ax�
 
 J'ai fondé mon association de défense animale PPA en 2019. En 2023, j'ai également créé mon propre bot Discord de support appelé Assistify. Cependant, mon projet coup de cœur est le serveur Discord de Silver, appelé Silver Community, ainsi que son bot que j'ai imaginé et créé entièrement.
 
-## Me soutenir
+## Contribuer et me soutenir
 
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiplay03&count_private=true&show_icons=true&theme=dark"/>
-</span>
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiplay03&layout=compact&theme=dark"/>
-</span>
+En tant que créateur passionné, je m'efforce continuellement d'améliorer mes projets et de proposer des solutions de qualité. Si vous trouvez mes réalisations utiles et souhaitez contribuer à leur développement, vous pouvez me soutenir de différentes manières.
+
+Vos suggestions d'améliorations et de nouvelles idées sont précieuses, n'hésitez donc pas à proposer des suggestions pour enrichir les projets existants ou pour ajouter de nouvelles fonctionnalités. De plus, en partageant mes projets et en en parlant autour de vous, vous contribuez à les faire connaître et à les rendre accessibles à un plus grand nombre d'utilisateurs.
+
+Si vous êtes développeur, votre aide est la bienvenue ! Vous pouvez proposer des modifications ou des corrections de bugs en soumettant des pull requests. Votre expertise et vos contributions jouent un rôle essentiel dans l'amélioration continue des projets.
+
+Par ailleurs, je vous invite à vous abonner à mes comptes sur les réseaux sociaux pour rester informé des dernières mises à jour, des nouvelles fonctionnalités et des projets à venir. Votre soutien sur les réseaux sociaux est un moyen précieux de me motiver à poursuivre mes efforts en tant que créateur.
+
+Enfin, si vous appréciez mon travail et souhaitez apporter un soutien financier, vous pouvez faire un don. Chaque contribution, quelle que soit sa taille, est grandement appréciée et permet de continuer à développer des projets de qualité.
+
+Je tiens à exprimer ma gratitude envers tous ceux qui soutiennent mon travail. Chaque contribution, petite ou grande, contribue à faire avancer les projets et à fournir des solutions toujours meilleures. Votre engagement et votre soutien sont essentiels pour m'aider à progresser en tant que créateur et à offrir des réalisations qui enrichissent la communauté.
+
+Projet créé et développé par Kiplay03

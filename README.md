@@ -1,5 +1,6 @@
 ## Présentation
 
+[![Competence](https://img.shields.io/badge/HTML-Excellente%20maitrise-Competence?logo=html)](https://postman.com/)
 [![Competence](https://img.shields.io/badge/PHP-Excellente%20maitrise-Competence?logo=php)](https://postman.com/)
 [![Competence](https://img.shields.io/badge/Docker-Excellente%20maitrise-Competence?logo=docker)](https://docker.com/)
 [![Competence](https://img.shields.io/badge/Postman-Excellente%20maitrise-Competence?logo=postman)](https://postman.com/)

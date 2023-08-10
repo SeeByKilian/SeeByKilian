@@ -1,6 +1,6 @@
 ## Présentation
 
-[![Competence](https://img.shields.io/badge/Node%20JS-20.5.0-Language?color=blue)](https://docker.com/)
+[![Competence](https://img.shields.io/badge/Docker-Excellente%20maitrise-Competence?logo=docker)](https://docker.com/)
 
 🙋‍♂️ Hello moi c'est Kilian. Depuis mon plus jeune âge, je suis passionné par le développement informatique et j'aspire à en faire mon métier. Actuellement, je travaille en collaboration avec Silver, un petit vidéaste talentueux. Sur ce profil GitHub, tu pourras explorer mes différents projets que j'ai mis à disposition des développeurs.
 

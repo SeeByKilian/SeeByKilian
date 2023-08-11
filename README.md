@@ -1,9 +1,9 @@
 ## Présentation
 
 [![Competence](https://img.shields.io/badge/Javascript-Excellente%20maitrise-Competence?logo=javascript&color=blue)]()
+[![Competence](https://img.shields.io/badge/Node%20JS-Excellente%20maitrise-Competence?logo=node.js&color=blue)]()
 [![Competence](https://img.shields.io/badge/Python-Excellente%20maitrise-Competence?logo=python&color=blue)]()
 [![Competence](https://img.shields.io/badge/PHP-Excellente%20maitrise-Competence?logo=php&color=blue)]()
-[![Competence](https://img.shields.io/badge/Node%20JS-Excellente%20maitrise-Competence?logo=php&color=blue)]()
 [![Competence](https://img.shields.io/badge/HTML-Bonne%20maitrise-Competence?logo=html5)]()
 [![Competence](https://img.shields.io/badge/CSS-Bonne%20maitrise-Competence?logo=css3)](https://css.com/)
 [![Competence](https://img.shields.io/badge/Docker-Excellente%20maitrise-Competence?logo=docker&color=blue)](https://docker.com/)

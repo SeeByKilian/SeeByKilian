@@ -3,7 +3,7 @@
 [![Competence](https://img.shields.io/badge/HTML-Excellente%20maitrise-Competence?logo=html5&color=blue)](https://html.com/)
 [![Competence](https://img.shields.io/badge/CSS-Bonne%20maitrise-Competence?logo=css3)](https://css.com/)
 [![Competence](https://img.shields.io/badge/PHP-Excellente%20maitrise-Competence?logo=php&color=blue)](https://php.com/)
-[![Competence](https://img.shields.io/badge/Javascript-Excellente%20maitrise-Competence?logo=php&color=blue)](https://javascript.com/)
+[![Competence](https://img.shields.io/badge/Javascript-Excellente%20maitrise-Competence?logo=javascript&color=blue)](https://javascript.com/)
 [![Competence](https://img.shields.io/badge/Docker-Excellente%20maitrise-Competence?logo=docker&color=blue)](https://docker.com/)
 [![Competence](https://img.shields.io/badge/Postman-Excellente%20maitrise-Competence?logo=postman&color=blue)](https://postman.com/)
 

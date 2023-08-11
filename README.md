@@ -1,6 +1,6 @@
 ## Présentation
 
-[![Competence](https://img.shields.io/badge/Javascript-Excellente%20maitrise-Competence?logo=javascript&color=blue)]()
+[![Competence](https://img.shields.io/badge/Javascript-blue?logo=javascript&color=blue)]()
 [![Competence](https://img.shields.io/badge/Node%20JS-Excellente%20maitrise-Competence?logo=node.js&color=blue)]()
 [![Competence](https://img.shields.io/badge/Python-Excellente%20maitrise-Competence?logo=python&color=blue)]()
 [![Competence](https://img.shields.io/badge/PHP-Excellente%20maitrise-Competence?logo=php&color=blue)]()

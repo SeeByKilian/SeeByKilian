@@ -6,6 +6,8 @@
 [![Competence](https://img.shields.io/badge/PHP-grey?logo=php)]()
 [![Competence](https://img.shields.io/badge/HTML-grey?logo=html5)]()
 [![Competence](https://img.shields.io/badge/CSS-grey?logo=css3)]()
+[![Competence](https://img.shields.io/badge/MySQL-grey?logo=mysql)]()
+[![Competence](https://img.shields.io/badge/Firebase-grey?logo=firebase)]()
 [![Competence](https://img.shields.io/badge/Docker-grey?logo=docker)]()
 [![Competence](https://img.shields.io/badge/Postman-grey?logo=postman)]()
 [![Competence](https://img.shields.io/badge/Windows-grey?logo=windows)]()

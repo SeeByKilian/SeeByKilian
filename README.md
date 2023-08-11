@@ -8,6 +8,8 @@
 [![Competence](https://img.shields.io/badge/CSS-grey?logo=css3)]()
 [![Competence](https://img.shields.io/badge/Docker-grey?logo=docker)]()
 [![Competence](https://img.shields.io/badge/Postman-grey?logo=postman)]()
+[![Competence](https://img.shields.io/badge/Windows-grey?logo=windows)]()
+[![Competence](https://img.shields.io/badge/Linux-grey?logo=linux)]()
 
 🙋‍♂️ Hello moi c'est Kilian. Depuis mon plus jeune âge, je suis passionné par le développement informatique et j'aspire à en faire mon métier. Actuellement, je travaille en collaboration avec Silver, un petit vidéaste talentueux. Sur ce profil GitHub, tu pourras explorer mes différents projets que j'ai mis à disposition des développeurs.
 

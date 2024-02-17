@@ -1,7 +1,7 @@
 ## Présentation
 
 [![Competence](https://img.shields.io/badge/Javascript-grey?logo=javascript)]()
-[![Competence](https://img.shields.io/badge/Python-grey?logo=python)]()
+[![Competence](https://img.shields.io/badge/C#-grey?logo=C#)]()
 [![Competence](https://img.shields.io/badge/PHP-grey?logo=php)]()
 [![Competence](https://img.shields.io/badge/HTML-grey?logo=html5)]()
 [![Competence](https://img.shields.io/badge/CSS-grey?logo=css3)]()

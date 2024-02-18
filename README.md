@@ -46,7 +46,7 @@ Je tiens à exprimer ma gratitude envers tous ceux qui soutiennent mon travail. 
 [![Competence](https://img.shields.io/badge/Windows-grey?logo=windows)]()
 [![Competence](https://img.shields.io/badge/Linux-grey?logo=linux)]()
 
-🙋‍♂️ Hello, I'm Kilian. From a very young age, I have been passionate about IT development and aspire to make it my profession. Currently, I'm working in collaboration with Silver, a talented little videographer. On this GitHub profile, you will be able to explore my different projects that I have made available to developers.
+🙋‍♂️ Hello, I'm Kilian. From a very young age, I have been passionate about IT development and aspire to make it my profession. Currently, I'm working in collaboration with Majora, a talented little videographer. On this GitHub profile, you will be able to explore my different projects that I have made available to developers.
 
 🎭 Since 2019, I have specialized as a developer mainly focused on the back-end, with a strong background in PHP, JavaScript and C#. But I also have front-end skills. I am able to operate on network infrastructure, server configuration, database management and API usage projects.
 

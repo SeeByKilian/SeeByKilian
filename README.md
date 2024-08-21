@@ -11,11 +11,11 @@
 [![Competence](https://img.shields.io/badge/Postman-grey?logo=postman)]()
 [![Competence](https://img.shields.io/badge/Linux-grey?logo=linux)]()
 
-🙋‍♂️ Hello moi c'est Kilian. Depuis mon plus jeune âge, je suis passionné par le développement informatique et j'aspire à en faire mon métier. Actuellement, je travaille en collaboration avec Majora, un petit vidéaste talentueux. Sur ce profil GitHub, tu pourras explorer mes différents projets que j'ai mis à disposition des développeurs.
+🙋‍♂️ Hello, moi c'est Kilian, depuis mon plus jeune âge, je suis passionné par le développement informatique et la photographie, des passions que j'aimerais exercer à titre professionnel. Je travaille aux côtés d'un petit vidéaste nommé Artur. Sur ce profil GitHub, tu pourras explorer mes différents projets que j'ai mis à disposition des développeurs.
 
 🎭 Depuis 2019, je me suis spécialisé en tant que développeur principalement axé sur le back-end, avec une solide expérience en PHP, JavaScript et C#. Mais je possède également des compétences en front-end. Je suis capable d'opérer sur des projets d'infrastructure réseau, de configuration de serveurs, de gestion de bases de données et d'utilisation API.
 
-👷 J'ai fondé mon association de défense animale [PPA](https://ppanimo.fr) en 2019. En 2023, j'ai également créé mon propre bot Discord de support appelé [Assistify](https://assistify.fr). Cependant, mon projet coup de cœur est le serveur Discord de Majora, appelé [Majora Community](https://discord.com/invite/kDBz5bDEsT), ainsi que son bot que j'ai imaginé et créé entièrement.
+👷 J'ai fondé mon association de défense animale [PPA](https://ppanimo.fr) en 2019. En 2023, j'ai également créé mon portfolio photographique, [SeeByKilian](https://seebykilian.myportfolio.com). Cependant, mon projet coup de cœur est le serveur Discord de Artur, appelé [Artur Community](https://discord.com/invite/kDBz5bDEsT), ainsi que son bot que j'ai imaginé et créé entièrement.
 
 ## Contribuer et me soutenir
 

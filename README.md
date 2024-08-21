@@ -44,7 +44,7 @@ Je tiens à exprimer ma gratitude envers tous ceux qui soutiennent mon travail. 
 [![Competence](https://img.shields.io/badge/Postman-grey?logo=postman)]()
 [![Competence](https://img.shields.io/badge/Linux-grey?logo=linux)]()
 
-🙋‍♂️ Hello, I'm Kilian. From a very young age, I've been passionate about software development and photography-passions that I hope to pursue professionally. I work alongside a small videographer named Artur. On this GitHub profile, you can explore my various projects that I've made available to developers.
+🙋‍♂️ Hello, I'm Kilian. From a very young age, I've been passionate about software development and photography, passions that I hope to pursue professionally. I work alongside a small videographer named Artur. On this GitHub profile, you can explore my various projects that I've made available to developers.
 
 🎭 Since 2019, I have specialized as a developer primarily focused on back-end work, with solid experience in PHP, JavaScript, and C#. However, I also have front-end skills. I am capable of working on network infrastructure projects, server configuration, database management, and API usage.
 

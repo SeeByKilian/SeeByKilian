@@ -44,11 +44,11 @@ Je tiens à exprimer ma gratitude envers tous ceux qui soutiennent mon travail. 
 [![Competence](https://img.shields.io/badge/Postman-grey?logo=postman)]()
 [![Competence](https://img.shields.io/badge/Linux-grey?logo=linux)]()
 
-🙋‍♂️ Hello, I'm Kilian. From a very young age, I have been passionate about IT development and aspire to make it my profession. Currently, I'm working in collaboration with Majora, a talented little videographer. On this GitHub profile, you will be able to explore my different projects that I have made available to developers.
+🙋‍♂️ Hello, I'm Kilian. From a very young age, I've been passionate about software development and photography-passions that I hope to pursue professionally. I work alongside a small videographer named Artur. On this GitHub profile, you can explore my various projects that I've made available to developers.
 
-🎭 Since 2019, I have specialized as a developer mainly focused on the back-end, with a strong background in PHP, JavaScript and C#. But I also have front-end skills. I am able to operate on network infrastructure, server configuration, database management and API usage projects.
+🎭 Since 2019, I have specialized as a developer primarily focused on back-end work, with solid experience in PHP, JavaScript, and C#. However, I also have front-end skills. I am capable of working on network infrastructure projects, server configuration, database management, and API usage.
 
-👷 I founded my animal defense association [PPA](https://ppanimo.fr) in 2019. In 2023, I also created my own support Discord bot called [Assistify](https://assistify.fr). However, my favorite project is Majora's Discord server, called [Majora Community](https://discord.com/invite/kDBz5bDEsT), as well as his bot that I imagined and created from scratch.
+👷 I founded my animal protection association [PPA](https://ppanimo.fr) in 2019. In 2023, I also created my photography portfolio, [SeeByKilian](https://seebykilian.myportfolio.com). However, my favorite project is Artur's Discord server, called [Artur Community](https://discord.com/invite/kDBz5bDEsT), as well as the bot that I designed and created entirely.
 
 ## Contribute and support me
 

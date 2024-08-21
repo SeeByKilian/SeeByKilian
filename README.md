@@ -25,16 +25,16 @@ Vos suggestions d'améliorations et de nouvelles idées sont précieuses, n'hés
 
 Si vous êtes développeur, votre aide est la bienvenue ! Vous pouvez proposer des modifications ou des corrections de bugs en soumettant des pull requests. Votre expertise et vos contributions jouent un rôle essentiel dans l'amélioration continue des projets.
 
-Par ailleurs, je vous invite à vous abonner à mes comptes sur les [réseaux sociaux](https://linktr.ee/kiplay03) pour rester informé des dernières mises à jour, des nouvelles fonctionnalités et des projets à venir. Votre soutien sur les réseaux sociaux est un moyen précieux de me motiver à poursuivre mes efforts en tant que créateur.
+Par ailleurs, je vous invite à vous abonner à mes comptes sur les [réseaux sociaux](https://linktr.ee/SeeByKilian) pour rester informé des dernières mises à jour, des nouvelles fonctionnalités et des projets à venir. Votre soutien sur les réseaux sociaux est un moyen précieux de me motiver à poursuivre mes efforts en tant que créateur.
 
-Enfin, si vous appréciez mon travail et souhaitez apporter un soutien financier, vous pouvez faire [un don](https://streamlabs.com/kiplay03/tip). Chaque contribution, quelle que soit sa taille, est grandement appréciée et permet de continuer à développer des projets de qualité.
+Enfin, si vous appréciez mon travail et souhaitez apporter un soutien financier, vous pouvez faire [un don](https://streamlabs.com/SeeByKilian/tip). Chaque contribution, quelle que soit sa taille, est grandement appréciée et permet de continuer à développer des projets de qualité.
 
 Je tiens à exprimer ma gratitude envers tous ceux qui soutiennent mon travail. Chaque contribution, petite ou grande, contribue à faire avancer les projets et à fournir des solutions toujours meilleures. Votre engagement et votre soutien sont essentiels pour m'aider à progresser en tant que créateur et à offrir des réalisations qui enrichissent la communauté.
 
 ## Presentation
 
 [![Competence](https://img.shields.io/badge/Javascript-grey?logo=javascript)]()
-[![Competence](https://img.shields.io/badge/C%23-grey?logo=C%23)]()
+[![Competence](https://img.shields.io/badge/C%23-grey?logo=Cplusplus)]()
 [![Competence](https://img.shields.io/badge/PHP-grey?logo=php)]()
 [![Competence](https://img.shields.io/badge/HTML-grey?logo=html5)]()
 [![Competence](https://img.shields.io/badge/CSS-grey?logo=css3)]()
@@ -42,7 +42,6 @@ Je tiens à exprimer ma gratitude envers tous ceux qui soutiennent mon travail. 
 [![Competence](https://img.shields.io/badge/MySQL-grey?logo=mysql)]()
 [![Competence](https://img.shields.io/badge/Docker-grey?logo=docker)]()
 [![Competence](https://img.shields.io/badge/Postman-grey?logo=postman)]()
-[![Competence](https://img.shields.io/badge/Windows-grey?logo=windows)]()
 [![Competence](https://img.shields.io/badge/Linux-grey?logo=linux)]()
 
 🙋‍♂️ Hello, I'm Kilian. From a very young age, I have been passionate about IT development and aspire to make it my profession. Currently, I'm working in collaboration with Majora, a talented little videographer. On this GitHub profile, you will be able to explore my different projects that I have made available to developers.
@@ -59,8 +58,8 @@ Your suggestions for improvements and new ideas are valuable, so don't hesitate 
 
 If you're a developer, your help is welcome! You can propose changes or bug fixes by submitting pull requests. Your expertise and contributions play a vital role in the continuous improvement of projects.
 
-In addition, I invite you to subscribe to my [social networks](https://linktr.ee/kiplay03) to stay informed of the latest updates, new features and upcoming projects. Your support on social media is a valuable way to motivate me to continue my efforts as a creator.
+In addition, I invite you to subscribe to my [social networks](https://linktr.ee/SeeByKilian) to stay informed of the latest updates, new features and upcoming projects. Your support on social media is a valuable way to motivate me to continue my efforts as a creator.
 
-Finally, if you appreciate my work and would like to provide financial support, you can make [a donation](https://streamlabs.com/kiplay03/tip). Each contribution, regardless of its size, is greatly appreciated and allows us to continue to develop quality projects.
+Finally, if you appreciate my work and would like to provide financial support, you can make [a donation](https://streamlabs.com/SeeByKilian/tip). Each contribution, regardless of its size, is greatly appreciated and allows us to continue to develop quality projects.
 
 I would like to express my gratitude to all those who support my work. Every contribution, big or small, helps to move projects forward and provide ever better solutions. Your commitment and support are essential to help me grow as a creator and deliver achievements that enrich the community.
